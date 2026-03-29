@@ -36,13 +36,13 @@ lista_tareas_app/
 
 ##  Funcionalidades
 
-✔ Agregar tareas
-✔ Marcar tareas como completadas
-✔ Eliminar tareas
-✔ Visualización dinámica de tareas
-✔ Eventos de teclado (Enter para añadir tarea)
-✔ Eventos de ratón (doble clic para completar tarea)
-✔ Cambio visual de tareas completadas (✔)
+Agregar tareas
+Marcar tareas como completadas
+Eliminar tareas
+Visualización dinámica de tareas
+Eventos de teclado (Enter para añadir tarea)
+Eventos de ratón (doble clic para completar tarea)
+Cambio visual de tareas completadas (✔)
 
 
 ## Tecnologías Utilizadas
